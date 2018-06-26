@@ -1,0 +1,24 @@
+{
+  "author": "magik6k",
+  "bugs": {
+    "url": "https://github.com/gxed/gcfg"
+  },
+  "gx": {
+    "dvcsimport": "github.com/src-d/gcfg"
+  },
+  "gxDependencies": [
+    {
+      "author": "magik6k",
+      "hash": "QmbfzWkkGpMB4QVHVsb2iLNgctteNm6KtGtk1ojinRXj9A",
+      "name": "warnings.v0",
+      "version": "1.0.0"
+    }
+  ],
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "gcfg",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.0.0"
+}
+

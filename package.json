@@ -9,9 +9,9 @@
   "gxDependencies": [
     {
       "author": "magik6k",
-      "hash": "QmbfzWkkGpMB4QVHVsb2iLNgctteNm6KtGtk1ojinRXj9A",
+      "hash": "QmSDSG8TDuuNZQNPddnjtzq3n3NPSvcbrhEvVyr5zLhfty",
       "name": "warnings.v0",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ],
   "gxVersion": "0.12.1",
@@ -19,6 +19,6 @@
   "license": "",
   "name": "gcfg",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
 
